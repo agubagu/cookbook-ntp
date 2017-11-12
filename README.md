@@ -1,6 +1,5 @@
 ntpd
 ====
-[![Cookbook Version](https://img.shields.io/cookbook/v/ntpd.svg)](https://supermarket.chef.io/cookbooks/ntpd)
 [![Build Status](https://travis-ci.org/agubagu/cookbook-ntp.svg?branch=master)](https://travis-ci.org/agubagu/cookbook-ntp)
 [![Dependencies](http://img.shields.io/gemnasium/agubagu/cookbook-ntp.svg)](https://gemnasium.com/agubagu/cookbook-ntp)
 
